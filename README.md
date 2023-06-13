@@ -7,4 +7,4 @@ Index to the problem solutions:
 
 | S. No.  | Solution Link |
 |:---------------:|---------------|
-|1.| [Good Turn](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/A%20Very%20Big%20Sum.cpp)  |
+|1.| [Good Turn](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Good%20Turn.java)  |
