@@ -11,3 +11,4 @@ Index to the problem solutions:
 |2.|[Add Two Numbers](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Add%20Two%20Numbers.java)|
 |3.|[Age Limit](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Age%20Limit.java)|
 |4.|[Squats](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Squats.java)|
+|5.|[Saving Taxes](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Saving%20Taxes.java)|
