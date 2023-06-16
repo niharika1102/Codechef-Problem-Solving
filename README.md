@@ -12,3 +12,4 @@ Index to the problem solutions:
 |3.|[Age Limit](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Age%20Limit.java)|
 |4.|[Squats](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Squats.java)|
 |5.|[Saving Taxes](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Saving%20Taxes.java)|
+|6.|[Water Consumption](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Water%20Consumption.java)|
