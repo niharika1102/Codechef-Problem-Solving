@@ -13,3 +13,4 @@ Index to the problem solutions:
 |4.|[Squats](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Squats.java)|
 |5.|[Saving Taxes](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Saving%20Taxes.java)|
 |6.|[Water Consumption](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Water%20Consumption.java)|
+|7.|[Materchef Finals](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Masterchef%20Finals.java)|
