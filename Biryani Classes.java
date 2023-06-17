@@ -11,15 +11,17 @@ class Codechef
 	{
 		// your code goes here
 		Scanner input = new Scanner(System.in);
-		
 		int testCase = input.nextInt();
 		
 		for (int i = 0; i < testCase; i++) {
-		    int weeks = input.nextInt();
-		    int cost = input.nextInt();
+		    int number = input.nextInt();
 		    
-		    int total = weeks * cost;
-		    System.out.println(total);
+		    if (number == 6) {
+		        System.out.println("YES");
+		    }
+		    else {
+		        System.out.println("NO");
+		    }
 		}
 	}
 }
