@@ -15,3 +15,4 @@ Index to the problem solutions:
 |6.|[Water Consumption](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Water%20Consumption.java)|
 |7.|[Materchef Finals](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Masterchef%20Finals.java)|
 |8.|[Biryani Classes](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Biryani%20Classes.java)|
+|9.|[Fitness](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Fitness.java)|
