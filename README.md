@@ -18,3 +18,4 @@ Index to the problem solutions:
 |9.|[Fitness](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Fitness.java)|
 |10.|[Chef Plays Ludo](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20Plays%20Ludo.java)|
 |11.|[Burgers](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Burgers.java)|
+|12.|[How Many Unattempted Problems?](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/How%20Many%20Unattempted%20Problems.java)|
