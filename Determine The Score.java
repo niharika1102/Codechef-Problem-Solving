@@ -15,7 +15,7 @@ class Codechef
 		int testCase = input.nextInt();
 		
 		for (int i = 0; i < testCase; i++) {
-		    int totalPoints = input.nextInt;
+		    int totalPoints = input.nextInt();
 		    int passed = input.nextInt();
 		    
 		    int points = totalPoints / 10;
