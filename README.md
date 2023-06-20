@@ -36,3 +36,4 @@ Index to the problem solutions:
 |27.|[Chef on a Date](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20on%20a%20Date.java)|
 |28.|[Parity](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Parity.java)|
 |29.|[Total Prize Money](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Total%20Prize%20Money.java)|
+|30.|[Counting Words](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Counting%20Words.java)|
