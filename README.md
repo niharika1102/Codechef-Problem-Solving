@@ -38,3 +38,4 @@ Index to the problem solutions:
 |29.|[Total Prize Money](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Total%20Prize%20Money.java)|
 |30.|[Counting Words](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Counting%20Words.java)|
 |31.|[Battery Health](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Battery%20Health.java)|
+|32.|[tom and Jerry Chase](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tom%20and%20Jerry%20Chase.java)|
