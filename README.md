@@ -26,3 +26,4 @@ Index to the problem solutions:
 |17.|[Audible Range](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Audible%20Range.java)|
 |18.|[Reach on Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Reach%20on%20Time.java)|
 |19.|[Who is Taller!](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Who%20is%20Taller!.java)|
+|20.|[Reach the Target](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Reach%20the%20Target.java)|
