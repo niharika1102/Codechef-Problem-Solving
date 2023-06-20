@@ -39,3 +39,4 @@ Index to the problem solutions:
 |30.|[Counting Words](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Counting%20Words.java)|
 |31.|[Battery Health](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Battery%20Health.java)|
 |32.|[tom and Jerry Chase](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tom%20and%20Jerry%20Chase.java)|
+|33.|[Ageing](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Ageing.java)|
