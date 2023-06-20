@@ -33,3 +33,4 @@ Index to the problem solutions:
 |24.|[Codechef Learn Problem Solving](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/CodeChef%20Learn%20Problem%20Solving.java)|
 |25.|[Chef and Brain Speed](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20and%20Brain%20Speed.java)|
 |26.|[Candy Division](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Candy%20Division.java)|
+|27.|[Chef on a Date](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20on%20a%20Date.java)|
