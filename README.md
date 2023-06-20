@@ -30,3 +30,4 @@ Index to the problem solutions:
 |21.|[Tour of King](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tour%20of%20King.java)|
 |22.|[My Very 1st Contest](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/My%20Very%201st%20Contest.java)|
 |23.|[Roller Coaster](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Roller%20Coaster.java)|
+|24.|[Codechef Learn Problem Solving](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/CodeChef%20Learn%20Problem%20Solving.java)|
