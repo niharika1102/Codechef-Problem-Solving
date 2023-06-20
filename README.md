@@ -29,3 +29,4 @@ Index to the problem solutions:
 |20.|[Reach the Target](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Reach%20the%20Target.java)|
 |21.|[Tour of King](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tour%20of%20King.java)|
 |22.|[My Very 1st Contest](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/My%20Very%201st%20Contest.java)|
+|23.|[Roller Coaster](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Roller%20Coaster.java)|
