@@ -27,3 +27,4 @@ Index to the problem solutions:
 |18.|[Reach on Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Reach%20on%20Time.java)|
 |19.|[Who is Taller!](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Who%20is%20Taller!.java)|
 |20.|[Reach the Target](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Reach%20the%20Target.java)|
+|21.|[Tour of King](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tour%20of%20King.java)|
