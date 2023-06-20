@@ -23,3 +23,4 @@ Index to the problem solutions:
 |14.|[Kitchen Timings](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Kitchen%20Timings.java)|
 |15.|[IPL Ticket Rush](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/IPL%20Ticket%20Rush.java)|
 |16.|[Tax in Chefland](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tax%20in%20Chefland.java)|
+|17.|[Audible Range](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Audible%20Range.java)|
