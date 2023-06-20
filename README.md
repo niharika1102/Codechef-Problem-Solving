@@ -22,3 +22,4 @@ Index to the problem solutions:
 |13.|[Determine the Score](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Determine%20The%20Score.java)|
 |14.|[Kitchen Timings](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Kitchen%20Timings.java)|
 |15.|[IPL Ticket Rush](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/IPL%20Ticket%20Rush.java)|
+|16.|[Tax in Chefland](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tax%20in%20Chefland.java)|
