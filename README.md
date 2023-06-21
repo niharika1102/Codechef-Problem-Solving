@@ -43,3 +43,4 @@ Index to the problem solutions:
 |34.|[Right There](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Right%20There.java)|
 |35.|[Second Max of Three Numbers](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Second%20Max%20of%20Three%20Numbers.java)|
 |36.|[Bull or Bear](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Bull%20or%20Bear.java)|
+|37.|[Four Tickets](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Four%20Tickets.java)|
