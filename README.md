@@ -46,3 +46,4 @@ Index to the problem solutions:
 |37.|[Four Tickets](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Four%20Tickets.java)|
 |38.|[Chairs Requirements](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chairs%20Requirements.java)|
 |39.|[Chef and Donation](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20and%20Donation.java)|
+|40.|[Number of Credits](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Number%20of%20Credits.java)|
