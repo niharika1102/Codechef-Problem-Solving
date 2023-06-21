@@ -48,3 +48,4 @@ Index to the problem solutions:
 |39.|[Chef and Donation](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chef%20and%20Donation.java)|
 |40.|[Number of Credits](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Number%20of%20Credits.java)|
 |41.|[Sum It](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Sum%20It.java)|
+|42.|[Get Subscription](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Get%20Subscription.java)|
