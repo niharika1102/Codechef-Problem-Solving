@@ -53,3 +53,4 @@ Index to the problem solutions:
 |44.|[Waiting Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Waiting%20Time.java)|
 |45.|[Just One More Episode](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Just%20One%20More%20Episode.java)|
 |46.|[Tasty Decisions](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tasty%20Decisions.java)|
+|47.|[Mana Points](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Mana%20Points.java)|
