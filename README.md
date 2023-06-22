@@ -49,3 +49,4 @@ Index to the problem solutions:
 |40.|[Number of Credits](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Number%20of%20Credits.java)|
 |41.|[Sum It](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Sum%20It.java)|
 |42.|[Get Subscription](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Get%20Subscription.java)|
+|43.|[Enough Space](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Enough%20Space.java)|
