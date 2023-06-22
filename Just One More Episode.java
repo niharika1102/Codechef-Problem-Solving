@@ -17,7 +17,7 @@ class Codechef
 		for (int i = 0; i < testCase; i++) {
 		    int time = input.nextInt();
 		    
-		    if (time < 24) {
+		    if (time > 24) {
 		        System.out.println("YES");
 		    }
 		    else {
