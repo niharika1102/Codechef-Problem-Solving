@@ -57,3 +57,4 @@ Index to the problem solutions:
 |48.|[Rain in Chefland](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Rain%20in%20Chefland.java)|
 |49.|[Equal Distributions](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Equal%20Distribution.java)|
 |50.|[Bidding](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Bidding.java)|
+|51.|[Overspeeding Fine](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Overspeeding%20Fine.java)|
