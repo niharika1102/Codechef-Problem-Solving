@@ -50,3 +50,4 @@ Index to the problem solutions:
 |41.|[Sum It](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Sum%20It.java)|
 |42.|[Get Subscription](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Get%20Subscription.java)|
 |43.|[Enough Space](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Enough%20Space.java)|
+|44.|[Waiting Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Waiting%20Time.java)|
