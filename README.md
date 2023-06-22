@@ -54,3 +54,4 @@ Index to the problem solutions:
 |45.|[Just One More Episode](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Just%20One%20More%20Episode.java)|
 |46.|[Tasty Decisions](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Tasty%20Decisions.java)|
 |47.|[Mana Points](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Mana%20Points.java)|
+|48.|[Rain in Chefland](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Rain%20in%20Chefland.java)|
