@@ -51,3 +51,4 @@ Index to the problem solutions:
 |42.|[Get Subscription](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Get%20Subscription.java)|
 |43.|[Enough Space](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Enough%20Space.java)|
 |44.|[Waiting Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Waiting%20Time.java)|
+|45.|[Just One More Episode]|
