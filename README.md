@@ -59,3 +59,4 @@ Index to the problem solutions:
 |50.|[Bidding](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Bidding.java)|
 |51.|[Overspeeding Fine](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Overspeeding%20Fine.java)|
 |52.|[Chess Time](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Chess%20Time.java)|
+|53.|[Podium Finish](https://github.com/niharika1102/Codechef-Problem-Solving-JAVA/blob/main/Podium%20Finish.java)|
